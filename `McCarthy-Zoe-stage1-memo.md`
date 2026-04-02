@@ -1,0 +1,29 @@
+# Executive Memo: Accounting Ratio Analysis
+
+To: CFO  
+From: Zoe McCarthy, Financial Analyst  
+Subject: Value of Accounting Ratio Analysis for Financial Evaluation  
+
+# Company Overview  
+:contentReference[oaicite:4]{index=4} operates in the global athletic apparel and footwear industry, designing, manufacturing, and marketing sportswear products worldwide.
+
+# Why Ratio Analysis Matters  
+Accounting ratio analysis provides critical insights into a company’s financial health that raw financial statements alone cannot reveal. While financial statements present absolute figures, ratios allow us to evaluate trends, compare performance over time, and benchmark against competitors. This analysis helps assess profitability, operational efficiency, liquidity, and financial risk, enabling more informed strategic decision-making.
+
+# Key Ratio Categories  
+- **Performance Ratios:** Measure how effectively the company generates returns for investors.  
+- **Profitability Ratios:** Evaluate the company’s ability to generate earnings relative to revenue.  
+- **Efficiency Ratios:** Assess how well assets are utilized to generate sales.  
+- **Leverage Ratios:** Examine the company’s use of debt and financial risk exposure.  
+- **Liquidity Ratios:** Determine the company’s ability to meet short-term obligations.  
+- **DuPont Analysis:** Breaks return on equity into profitability, efficiency, and leverage components.  
+
+## Data Sources  
+Financial data will be obtained from the SEC EDGAR database (Nike’s 10-K filing), :contentReference[oaicite:5]{index=5}, and Nike’s investor relations website to ensure accuracy and reliability.
+
+## Next Steps  
+- **Stage 2:** Build an Excel model calculating all required ratios using Nike’s financial data.  
+- **Stage 3:** Document the model’s structure, formulas, and key insights in a technical specification.  
+- **Stage 4:** Produce a final executive analysis with strategic recommendations and an AI-supported evaluation prompt.  
+
+This analysis will provide a comprehensive understanding of Nike’s financial performance and support data-driven decision-making at the executive level.
