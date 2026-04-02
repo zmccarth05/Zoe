@@ -1,1 +1,3 @@
-# Zoe
+My name is Zoe McCarthy, I am a third year at the University of Hawaii, majoring in entreprenuership. I am passionate about building ideas into real ventures, and am very interested in how creativity, business strategy, and innovation come together to solve real-world problems and create meaningful impact.
+Academic & Professional Interests: I am interested in entreprenuership & startup development, marketing strategy & branding, psychology, and consumer behavior and market trends.
+Skills/Language: I am fluent in English and intermediate ASL. I am skilled at using Microsoft Office, Google Workspace, & Canva# Zoe
